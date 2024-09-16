@@ -162,5 +162,4 @@ cython_debug/
 #.idea/
 
 #
-rice_sample.jpg/
-connfusion_matrix.jpg/
+images/
